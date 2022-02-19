@@ -1,8 +1,8 @@
-.recources__logo_polka {
+.resources__logo_polka {
   background-image: url(../../../images/logo/resources-polka.svg);
 }
 
-.recources__logo_polka:hover {
+.resources__logo_polka:hover {
   opacity: .8;
   transition-duration: .5s;
 }

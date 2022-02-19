@@ -1,8 +1,8 @@
-.recources__logo_strelka {
+.resources__logo_strelka {
   background-image: url(../../../images/logo/resources-strelka.svg);
 }
 
-.recources__logo_strelka:hover {
+.resources__logo_strelka:hover {
   opacity: .8;
   transition-duration: .5s;
 }

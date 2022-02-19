@@ -1,8 +1,8 @@
-.recources__logo_n1 {
+.resources__logo_n1 {
   background-image: url(../../../images/logo/resources-n1.svg);
 }
 
-.recources__logo_n1:hover {
+.resources__logo_n1:hover {
   opacity: .8;
   transition-duration: .5s;
 }
