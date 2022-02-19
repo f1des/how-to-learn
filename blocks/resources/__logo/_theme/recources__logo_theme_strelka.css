@@ -1,8 +1,0 @@
-.recources__logo_theme_strelka {
-  background-image: url(../../../../images/logo/resources-strelka.svg);
-}
-
-.recources__logo_theme_strelka:hover {
-  opacity: .8;
-  transition-duration: .5s;
-}
