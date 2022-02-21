@@ -9,9 +9,9 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-title_theme_light.css);
-@import url(../blocks/header/__logo/logo.css);
-@import url(../blocks/header/__logo/_place/logo_place_header.css);
-@import url(../blocks/header/__logo/_place_footer/logo_place_footer.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/description/description.css);
