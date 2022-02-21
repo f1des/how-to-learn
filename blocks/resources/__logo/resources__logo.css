@@ -4,3 +4,8 @@
   background-size: contain;
   background: center no-repeat;
 }
+
+.resources__logo:hover {
+  opacity: .8;
+  transition-duration: .5s;
+}
